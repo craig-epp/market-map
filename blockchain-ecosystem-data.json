@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Blockchain & Tokenization Scaling Ecosystem",
+    "version": "1.0",
+    "generated": "2025-09-02T20:03:32.441Z",
+    "total_companies": 42,
+    "categories": 5
+  },
+  "categories": {
+    "layer2_scaling": {
+      "name": "Layer 2 & Scaling",
+      "description": "Zero-knowledge rollups, optimistic rollups, state channels",
+      "companies": [
+        "Polygon",
+        "Arbitrum",
+        "Optimism",
+        "StarkNet",
+        "zkSync",
+        "Lightning Network",
+        "Immutable X"
+      ]
+    },
+    "infrastructure": {
+      "name": "Infrastructure & Tools",
+      "description": "Node providers, bridges, oracles, development tools",
+      "companies": [
+        "Infura",
+        "Alchemy",
+        "QuickNode",
+        "Chainlink",
+        "LayerZero",
+        "Wormhole",
+        "The Graph"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise Integration",
+      "description": "BaaS platforms, compliance, enterprise adoption",
+      "companies": [
+        "AWS Blockchain",
+        "Microsoft Azure",
+        "IBM Blockchain",
+        "ConsenSys",
+        "R3 Corda",
+        "Hyperledger"
+      ]
+    },
+    "tokenization": {
+      "name": "Tokenization Infrastructure",
+      "description": "Asset digitization, custody, fractional ownership",
+      "companies": [
+        "Centrifuge",
+        "Polymath",
+        "tZERO",
+        "Securitize",
+        "Harbor",
+        "Templum",
+        "Tokensoft"
+      ]
+    },
+    "user_experience": {
+      "name": "User Experience Layer",
+      "description": "Wallets, gasless transactions, user onboarding",
+      "companies": [
+        "MetaMask",
+        "WalletConnect",
+        "Magic",
+        "Coinbase Wallet",
+        "Argent",
+        "Gnosis Safe",
+        "Biconomy"
+      ]
+    }
+  }
+}
